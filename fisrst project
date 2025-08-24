@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Beagle — Fun Facts & Gallery</title>
+
+ 
+  <link
+    rel="icon"
+    href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E🐶%3C/text%3E%3C/svg%3E"
+  />
+
+
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="container">
+ 
+    <div id="intro" class="card">
+      <h1 class="title">Meet the <strong>Beagle</strong></h1>
+      <p class="lead">
+        The Beagle is a small hound known for its <strong>keen sense of smell</strong>
+        and a friendly, outgoing personality. It's often described as a
+        <em>merry</em> companion, making it a favorite family dog.
+      </p>
+
+      <a
+        class="btn"
+        href="https://en.wikipedia.org/wiki/Beagle"
+        target="_blank"
+        rel="noopener"
+        >Read More →</a
+      >
+    </div>
+
+
+    <div id="gallery" class="card">
+      <h2 class="section-title">Image</h2>
+
+    
+      <figure class="image-wrap">
+        <img
+          src="https://upload.wikimedia.org/wikipedia/commons/5/55/Beagle_600.jpg"
+          alt="A tricolor Beagle standing on grass"
+          loading="lazy"
+        />
+        <br>
+      <a
+        class="link-inline"
+        href="https://www.google.com/search?q=beagle&rlz=1C5CHFA_enUS944US945&sxsrf=ALiCzsYi_xLzuX5-mgRt-U2UMiiEwhaCTA:1672839794160&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiat8ntha78AhVnDbcAHX7UCYYQ_AUoAXoECAEQAw&biw=1629&bih=894&dpr=2.2"
+        target="_blank"
+        rel="noopener"
+        >More Images</a
+      >
+      </div>
+
+   
+    <div id="trivia" class="card">
+      <h2 class="section-title">Trivia</h2>
+      <ol class="trivia-list">
+        <li>
+          Beagles are <strong>scent hounds</strong>—their noses are
+          exceptionally powerful.
+        </li>
+        <li>
+          The breed is famously <em>vocal</em>, using barks, howls, and the
+          classic “bay”.
+        </li>
+        <li>
+          A healthy Beagle weighs about <strong>9-11&nbsp;kg</strong> and stands
+          <em>33-41&nbsp;cm</em> at the shoulder (varies by line).
+        </li>
+        <li>
+          Their short coat is <strong>low maintenance</strong>, but they do shed.
+        </li>
+        <li>
+          Beagles are <em>pack-oriented</em> and thrive with regular exercise and
+          mental stimulation.
+        </li>
+      </ol>
+    </div>
+  </main>
+</body>
+</html>
